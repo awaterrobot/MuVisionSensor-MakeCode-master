@@ -1,7 +1,7 @@
 {
     "name": "Muvs",
     "version": "0.0.8",
-    "description": "Mu視覺資料庫",
+    "description": "MU視覺資料庫",
     "dependencies": {
         "core": "*"
     },
