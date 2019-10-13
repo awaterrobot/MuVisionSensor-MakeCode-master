@@ -26,7 +26,9 @@
         "MuVisionSensor.cpp",
         "MuVisionSensor.h",
         "_locales/zh/Muvs-strings.json",
-        "_locales/zh/Muvs-jsdoc-strings.json"
+        "_locales/zh/Muvs-jsdoc-strings.json",
+        "_locales/zh-tw/Muvs-jsdoc-strings.json",
+        "_locales/zh-tw/Muvs-strings.json"
     ],
     "public": true,
     "license": "Apache 2.0"
