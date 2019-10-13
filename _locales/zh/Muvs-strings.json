@@ -7,7 +7,7 @@
   "MuVisionSensor.BaudRate.BR_57600|block": "57600",
   "MuVisionSensor.BaudRate.BR_921600|block": "921600",
   "MuVisionSensor.BaudRate.BR_9600|block": "9600",
-  "MuVisionSensor.CARD_TYPE.VISION_NUM_CARD_DETECT|block": "🔳 数字卡片",
+  "MuVisionSensor.CARD_TYPE.VISION_NUM_CARD_DETECT|block": "🔳 数卡片",
   "MuVisionSensor.CARD_TYPE.VISION_SHAPE_CARD_DETECT|block": "🔳 形状卡片",
   "MuVisionSensor.CARD_TYPE.VISION_TRAFFIC_CARD_DETECT|block": "🔳 交通卡片",
   "MuVisionSensor.COLOR_TYPE.BLACK|block": "黑",
