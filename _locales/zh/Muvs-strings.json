@@ -113,8 +113,8 @@
   "MuVisionSensor.set_led|block": "%id|LED %led|识别到颜色 %detected_color|未识别到颜色 %undetected_color",
   "MuVisionSensor.set_level|block": "%id|设置算法%VISION_TYPE|性能%level",
   "MuVisionSensor.set_zoom|block": "%id|数码变焦%level",
-  "MuVisionSensor|block": "Mu视觉传感器",
-  "{id:category}MuVisionSensor": "Mu视觉传感器",
-  "{id:group}Settings": "设置模块",
-  "{id:group}Functions": "运行模块"
+  "MuVisionSensor|block": "Mu視覺感測器",
+  "{id:category}MuVisionSensor": "Mu視覺感測器",
+  "{id:group}Settings": "設置積木",
+  "{id:group}Functions": "運行積木"
 }
